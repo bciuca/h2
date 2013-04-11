@@ -1,0 +1,12 @@
+node_modules/
+node_modules
+node_modules/bcrypt
+node-boilerplate
+.DS_Store
+.project
+.settings/
+db/
+runlog.txt
+npm-debug.log
+h2project.sublime-workspace
+runlog_*.txt

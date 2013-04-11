@@ -1,0 +1,23 @@
+{ 
+	"version" : "v0.0.0",
+	"auth_db" : {
+		"db" : "auth_db",
+		"collection" : "user_auth_collection",
+		"host" : "127.0.0.1",
+		"port" : 27017
+	},
+	"session_db" : {
+		"db" : "session_db",
+		"collection" : "sessions",
+		"host" : "127.0.0.1",
+		"port" : 27017
+	},
+	"content_db" : {
+		"db" : "content_db",
+		"collection" : "content",
+		"host" : "127.0.0.1",
+		"port" : 27017
+	},
+	"session_secret" : "763gd8skld9738#@kh./0988yhstr5e",
+	"cookie_secret"  : "%^&*dsdfsk6468uJHgdg5><8h"
+}

@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "folder_exclude_patterns" : ["db", ".settings", ".git", "node-boilerplate"],
+            "file_exclude_patterns" : [".project"]
+        }
+    ],
+    "settings":
+    {
+        "tab_size": 4
+    }
+}
